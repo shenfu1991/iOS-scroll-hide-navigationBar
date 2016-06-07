@@ -22,9 +22,16 @@ self.edgesForExtendedLayout=UIRectEdgeNone;
 
 
 
-![image](https://raw.githubusercontent.com/mengzhihoing/iOS-scroll-hide-navigationBar/master/1.gif)
+![image](https://raw.githubusercontent.com/mengzhihoing/iOS-scroll-hide-navigationBar/master/1.gif)   
 
-![image](https://raw.githubusercontent.com/mengzhihoing/iOS-scroll-hide-navigationBar/master/2.gif)  
+
+
+
+
+![image](https://raw.githubusercontent.com/mengzhihoing/iOS-scroll-hide-navigationBar/master/2.gif)    
+
+
+
 
 ![image](https://raw.githubusercontent.com/mengzhihoing/iOS-scroll-hide-navigationBar/master/3.gif)
 
